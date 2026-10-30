@@ -1,0 +1,4 @@
+pandas 
+sckit-learn
+flask
+pytest
